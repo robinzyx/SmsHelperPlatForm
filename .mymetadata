@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SmsHelperPlatform"
+  id="myeclipse.1371195932338"
+  context-root="/"
+  j2ee-spec="6.0"
+  archive="SmsHelperPlatform.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
